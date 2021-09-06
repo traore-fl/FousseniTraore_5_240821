@@ -1,4 +1,5 @@
 //Variables Globales
+  
 const url = `http://localhost:3000/api/cameras`;
 const basket = JSON.parse(localStorage.getItem("cameras")) || [];
 
